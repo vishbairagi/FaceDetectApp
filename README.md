@@ -11,11 +11,13 @@ Splash Screen:
 
 
 
-
+if tab QRScanner button:-
 
 ![alt text](image-1.png)
 
 
+
+if tab ShowAlluser button:-
 ![alt text](image-5.png)
 
 
