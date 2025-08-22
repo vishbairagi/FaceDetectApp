@@ -58,36 +58,13 @@ npm install
 yarn install
 
 npx react-native start
+
+for android run command:
 npx react-native run-android
+
+or for ios run command :
 npx react-native run-ios
 
-
-
-Splash Screen:
-
-![alt text](image-6.png)
-
-
-
-
-
-
-![alt text](image.png)
-
-
-
-if tab QRScanner button:-
-
-![alt text](image-1.png)
-
-
-
-if tab ShowAlluser button:-
-![alt text](image-5.png)
-
-
-
-![alt text](image-2.png)
 
 
 
