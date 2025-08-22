@@ -64,12 +64,3 @@ npx react-native run-android
 
 or for ios run command :
 npx react-native run-ios
-
-
-
-
-
-![alt text](image-3.png)
-
-
-![alt text](image-4.png)
